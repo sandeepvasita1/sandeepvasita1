@@ -44,6 +44,7 @@ I enjoy learning programming, building practical projects and exploring modern w
 * 🚀 Goal: Build real-world applications
 
 ---
+🐍 My Contribution Graph
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/> </p>
 
 # 🛠️ Tech Stack
