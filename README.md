@@ -1,16 +1,206 @@
-## Hi there 👋
+<!-- ======================= HEADER ======================= -->
 
-<!--
-**sandeepvasita1/sandeepvasita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sandeep%20Vasita&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/sandeepvasita1">
+    <img src="https://komarev.com/ghpvc/?username=sandeepvasita1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sandeepvasita1?tab=followers">
+    <img src="https://img.shields.io/github/followers/sandeepvasita1?style=for-the-badge&label=Followers" />
+  </a>
+</p>
+
+---
+
+# 👋 Hi, I'm Sandeep Vasita
+
+💻 **BCA Student & Aspiring Full-Stack Developer**
+
+I enjoy learning programming, building practical projects and exploring modern web technologies.
+
+```text
+💻 Coding
+🌱 Learning
+🚀 Building Projects
+🧠 Improving Every Day
+```
+
+---
+
+## 🚀 About Me
+
+* 🎓 BCA Student
+* 💻 Aspiring Full-Stack Developer
+* 🌱 Currently learning **React, Node.js & MongoDB**
+* 🐍 Working with **Python**
+* 🌐 Interested in Web Development
+* 🗄️ Learning **MySQL & MongoDB**
+* 🔧 Exploring REST APIs and Backend Development
+* 🚀 Goal: Build real-world applications
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### 🖥️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📂 My Projects
+
+<p align="center">
+
+<a href="https://github.com/sandeepvasita1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/sandeepvasita1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sandeepvasita1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/sandeepvasita1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+> ⚠️ `YOUR_REPOSITORY_1`, `YOUR_REPOSITORY_2` आदि को अपनी actual repository names से replace करना है।
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepvasita1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepvasita1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvasita1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepvasita1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[✓] Learn HTML & CSS
+[✓] Learn JavaScript
+[✓] Practice Python
+[✓] Learn PHP
+[ ] Master React
+[ ] Build Full-Stack Applications
+[ ] Improve Node.js & Express
+[ ] Build More MongoDB Projects
+[ ] Contribute to Open Source
+```
+
+---
+
+# 📚 Currently Learning
+
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+REST API
+Full-Stack Development
+Git & GitHub
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sandeepvasita1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+<i>"Code. Learn. Build. Repeat. 🚀"</i>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
