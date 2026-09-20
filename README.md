@@ -90,32 +90,6 @@ I enjoy learning programming, building practical projects and exploring modern w
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepvasita1&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvasita1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
-# 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepvasita1&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 ```text
