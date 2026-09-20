@@ -75,33 +75,8 @@ I enjoy learning programming, building practical projects and exploring modern w
 
 ---
 
-# 📂 My Projects
 
-<p align="center">
 
-<a href="https://github.com/sandeepvasita1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/sandeepvasita1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/sandeepvasita1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/sandeepvasita1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepvasita1&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-> ⚠️ `YOUR_REPOSITORY_1`, `YOUR_REPOSITORY_2` आदि को अपनी actual repository names से replace करना है।
 
 ---
 
@@ -198,8 +173,7 @@ Git & GitHub
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
-</p>
+  <img src="https://raw.githubusercontent.com/sandeepvasita1/sandeepvasita1/main/ChatGPT%20Image%20Sep%2016%2C%202026%2C%2010_13_09%20AM.png">
 
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
