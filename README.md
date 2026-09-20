@@ -12,9 +12,7 @@
   <a href="https://github.com/sandeepvasita1">
     <img src="https://komarev.com/ghpvc/?username=sandeepvasita1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <a href="https://github.com/sandeepvasita1?tab=followers">
-    <img src="https://img.shields.io/github/followers/sandeepvasita1?style=for-the-badge&label=Followers" />
-  </a>
+  
 </p>
 
 ---
