@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sandeep%20Vasita&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src=""/>
 </p>
 
 <p align="center">
