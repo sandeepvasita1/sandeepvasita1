@@ -1,33 +1,19 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Sandeep Vasita GitHub Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sandeep%20Vasita&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sandeepvasita1">
-    <img
-      src="https://komarev.com/ghpvc/?username=sandeepvasita1&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-      alt="Profile Views"
-    />
+    <img src="https://komarev.com/ghpvc/?username=sandeepvasita1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-
   <a href="https://github.com/sandeepvasita1?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/sandeepvasita1?style=for-the-badge&label=Followers"
-      alt="Followers"
-    />
+    <img src="https://img.shields.io/github/followers/sandeepvasita1?style=for-the-badge&label=Followers" />
   </a>
 </p>
 
@@ -44,6 +30,8 @@ I enjoy learning programming, building practical projects and exploring modern w
 🌱 Learning
 🚀 Building Projects
 🧠 Improving Every Day
+```
+
 ---
 
 ## 🚀 About Me
