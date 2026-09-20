@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sandeep%20Vasita&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+ <img src="https://raw.githubusercontent.com/sandeepvasita1/sandeepvasita1/main/ChatGPT%20Image%20Sep%2016%2C%202026%2C%2010_13_09%20AM.png">
 </p>
 
 <p align="center">
